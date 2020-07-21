@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/mint/static/css/main.3917be5c.chunk.css",
+    "main.js": "/mint/static/js/main.e55f4aab.chunk.js",
+    "main.js.map": "/mint/static/js/main.e55f4aab.chunk.js.map",
+    "runtime-main.js": "/mint/static/js/runtime-main.7eb39175.js",
+    "runtime-main.js.map": "/mint/static/js/runtime-main.7eb39175.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/mint/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.8356cb64.chunk.js": "/mint/static/js/2.8356cb64.chunk.js",
+    "static/js/2.8356cb64.chunk.js.map": "/mint/static/js/2.8356cb64.chunk.js.map",
+    "index.html": "/mint/index.html",
+    "precache-manifest.cd7906bd2465b60de8b4303f0c6d1dfe.js": "/mint/precache-manifest.cd7906bd2465b60de8b4303f0c6d1dfe.js",
+    "service-worker.js": "/mint/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/mint/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.3917be5c.chunk.css.map": "/mint/static/css/main.3917be5c.chunk.css.map",
+    "static/js/2.8356cb64.chunk.js.LICENSE.txt": "/mint/static/js/2.8356cb64.chunk.js.LICENSE.txt",
+    "static/media/face1.jpg": "/mint/static/media/face1.7fe4cbb9.jpg",
+    "static/media/face2.jpg": "/mint/static/media/face2.a1504e3e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eb39175.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.8356cb64.chunk.js",
+    "static/css/main.3917be5c.chunk.css",
+    "static/js/main.e55f4aab.chunk.js"
+  ]
+}
